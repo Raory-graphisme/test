@@ -1,0 +1,134 @@
+order,round,pool,type,theme,prompt,answer,imageUrl,imageUrlB,optionA,optionB,optionC,optionD,durationSeconds,blurLevel
+1,round1,team-1,truefalse,Design graphique,Le logo Nike a été dessiné pour seulement 35 dollars.,Vrai,,,Vrai,Faux,,,0,14
+2,round1,team-1,truefalse,Typographie,La typographie Comic Sans a été créée pour Microsoft Excel.,Faux,,,Vrai,Faux,,,0,14
+3,round1,team-1,truefalse,Format,Le format A4 appartient à une norme allemande.,Vrai,,,Vrai,Faux,,,0,14
+4,round1,team-1,truefalse,Histoire de l’art,Vincent van Gogh n’a vendu qu’un seul tableau de son vivant.,Vrai,,,Vrai,Faux,,,0,14
+5,round1,team-1,truefalse,Histoire de l’art,La Joconde possède des sourcils.,Faux,,,Vrai,Faux,,,0,14
+6,round1,team-2,truefalse,Pop culture,Le cri des Pokémon dans les premiers jeux était enregistré avec de vrais animaux.,Faux,,,Vrai,Faux,,,0,14
+7,round1,team-2,truefalse,Logiciels,Figma a été créé avant Adobe XD.,Vrai,,,Vrai,Faux,,,0,14
+8,round1,team-2,truefalse,Format,Le SVG est un format vectoriel.,Vrai,,,Vrai,Faux,,,0,14
+9,round1,team-2,truefalse,Logo,Le logo d’Adobe représente la signature de son fondateur.,Faux,,,Vrai,Faux,,,0,14
+10,round1,team-2,truefalse,Culture numérique,Le premier emoji a été créé en France.,Faux,,,Vrai,Faux,,,0,14
+11,round1,team-3,truefalse,Couleur,Le CMJN contient une encre verte.,Faux,,,Vrai,Faux,,,0,14
+12,round1,team-3,truefalse,Histoire de l’art,La Joconde a déjà été volée du Louvre.,Vrai,,,Vrai,Faux,,,0,14
+13,round1,team-3,truefalse,Logo,Les trois lignes du logo Spotify sont droites.,Faux,,,Vrai,Faux,,,0,14
+14,round1,team-3,truefalse,Design génératif,La campagne Nutella aux packagings tous différents a utilisé une génération algorithmique pour créer des millions de visuels uniques.,Vrai,,,Vrai,Faux,,,0,14
+15,round1,team-3,truefalse,Histoire de l’art,Le Cri d’Edvard Munch appartient à l’impressionnisme.,Faux,,,Vrai,Faux,,,0,14
+16,round1,team-4,truefalse,Typographie,La typographie Times New Roman possède des empattements.,Vrai,,,Vrai,Faux,,,0,14
+17,round1,team-4,truefalse,Plateforme,Netflix possède plusieurs miniatures différentes pour un même film selon les utilisateurs.,Vrai,,,Vrai,Faux,,,0,14
+18,round1,team-4,truefalse,Histoire du design,Le mouvement Bauhaus a été interdit par le régime nazi en 1933.,Vrai,,,Vrai,Faux,,,0,14
+19,round1,team-4,truefalse,Typographie,Helvetica a été créée en Suisse dans les années 50 pour remplacer Akzidenz-Grotesk.,Vrai,,,Vrai,Faux,,,0,14
+20,round1,team-4,truefalse,Interface,Instagram utilisait initialement une typographie serif pour son interface principale.,Faux,,,Vrai,Faux,,,0,14
+1,round2,theme-1,text,Logiciels de création graphique,Citez des logiciels utilisés en création graphique.,"Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, Lightroom, Acrobat, XD, Figma, Sketch, Canva, Procreate, Affinity Designer, Blender, Cinema 4D, Maya, DaVinci Resolve, CapCut, Miro, Midjourney, Stable Diffusion, Firefly",,,,,,,0,14
+2,round2,theme-2,text,Formats de fichier,Citez des formats de fichier.,"PDF, JPEG, PNG, GIF, SVG, TIFF, EPS, AI, PSD, INDD, RAW, WEBP, BMP, ICO, MP4, MOV, OTF, TTF, WOFF, WOFF2, ZIP, CSV, HTML, CSS, JSON",,,,,,,0,14
+3,round2,theme-3,text,Anatomie typographique,Citez du vocabulaire d’anatomie typographique.,"Ascendante, descendante, hampe, jambage, panse, oeil, empattement, contrepoinçon, traverse, fût, apex, ligature, chasse, crénage, interlettrage, ligne de base, capitale, bas-de-casse",,,,,,,0,14
+4,round2,theme-4,text,Mouvements artistiques,Citez des mouvements artistiques ou graphiques.,"Bauhaus, Art nouveau, Art déco, Constructivisme, De Stijl, Surréalisme, Impressionnisme, Expressionnisme, Cubisme, Futurisme, Dadaïsme, Pop art, Brutalisme, Minimalisme, Swiss style",,,,,,,0,14
+5,round2,theme-5,text,Identité visuelle,Citez des éléments d’une identité visuelle.,"Logo, logotype, monogramme, symbole, icône, palette de couleurs, typographie, charte graphique, motif, grille, slogan, ton de voix, papeterie, pictogrammes, système d’illustration, déclinaisons",,,,,,,0,14
+6,round2,theme-6,text,Supports d’impression,Citez des types de papier ou de supports d’impression.,"Couché, offset, kraft, calque, vélin, bible, cartonné, bristol, mat, glacé, satiné, recyclé, transparent, adhésif, papier ensemencé, bâche, dibond, forex, plexiglas, toile, vinyle",,,,,,,0,14
+1,drawing,vote,text,Le Duel des Illustrateurs,Dessiner la Joconde,Vote public,,,,,,,0,14
+2,drawing,vote,text,Le Duel des Illustrateurs,Dessiner Pikachu,Vote public,,,,,,,0,14
+3,drawing,vote,text,Le Duel des Illustrateurs,Dessiner Shrek,Vote public,,,,,,,0,14
+4,drawing,vote,text,Le Duel des Illustrateurs,Dessiner Bob l’Éponge,Vote public,,,,,,,0,14
+5,drawing,vote,text,Le Duel des Illustrateurs,Dessiner Anthony,Vote public,,,,,,,0,14
+6,drawing,vote,text,Le Duel des Illustrateurs,Dessiner un creeper de Minecraft,Vote public,,,,,,,0,14
+7,drawing,vote,text,Le Duel des Illustrateurs,Dessiner Woody de Toy Story,Vote public,,,,,,,0,14
+1,round3,buzz,text,Les Joutes du Savoir,Quel est le bon logo Safari ?,Logo A,,,,,,,0,14
+2,round3,buzz,text,Les Joutes du Savoir,Quel est le premier logo de la SNCF ?,Réponse visuelle à choisir dans le PDF,,,,,,,0,14
+3,round3,buzz,text,Les Joutes du Savoir,"Quelle couleur obtient-on avec C:0%, M:50%, J:100%, N:0% ?",Orange,,,,,,,0,14
+4,round3,buzz,text,Les Joutes du Savoir,Quel studio d’animation a créé Shrek ?,DreamWorks Animation,,,,,,,0,14
+5,round3,buzz,text,Les Joutes du Savoir,À quelle marque appartient cette partie de logo ?,Schweppes,,,,,,,0,14
+6,round3,buzz,text,Les Joutes du Savoir,Quel est le nom de ce tableau ?,"Guernica, Pablo Picasso",,,,,,,0,14
+7,round3,buzz,text,Les Joutes du Savoir,Quel est le bon logo de Domino’s Pizza ?,Logo A,,,,,,,0,14
+8,round3,buzz,text,Les Joutes du Savoir,Quel est le nom du tableau Le Cri ?,"The Scream / Le Cri, Edvard Munch",,,,,,,0,14
+9,round3,buzz,text,Les Joutes du Savoir,Quel est le nom du tableau Le Baiser ?,"The Kiss / Le Baiser, Gustav Klimt",,,,,,,0,14
+10,round3,buzz,text,Les Joutes du Savoir,Quel est le bon logo HP ?,Logo B,,,,,,,0,14
+11,round3,buzz,text,Les Joutes du Savoir,Quel est le bon logo Burger King ?,Logo B,,,,,,,0,14
+12,round3,buzz,text,Les Joutes du Savoir,Quel est le bon logo Airbnb ?,Logo A,,,,,,,0,14
+13,round3,buzz,text,Les Joutes du Savoir,Quel logo contient cet élément ?,FedEx,,,,,,,0,14
+14,round3,buzz,text,Les Joutes du Savoir,Quelle est la bonne couleur du logo LISAA ?,A,,,,,,,0,14
+15,round3,buzz,text,Les Joutes du Savoir,Quelle marque a déposé cette couleur comme marque commerciale ?,Tiffany & Co.,,,,,,,0,14
+16,round3,buzz,text,Les Joutes du Savoir,Quelle maison de luxe française est associée à cette couleur ?,Hermès,,,,,,,0,14
+17,round3,buzz,text,Les Joutes du Savoir,Que symbolise la flèche selon Amazon ?,"Amazon vend tout, de A à Z",,,,,,,0,14
+18,round3,buzz,text,Les Joutes du Savoir,Quel est ce tableau ?,Le Radeau de la Méduse,,,,,,,0,14
+19,round3,buzz,text,Les Joutes du Savoir,Qui a peint cette œuvre de street art ?,Banksy,,,,,,,0,14
+20,round3,buzz,text,Les Joutes du Savoir,Qui est la femme dans cette œuvre de pop art ?,Marilyn Monroe,,,,,,,0,14
+21,round3,buzz,text,Les Joutes du Savoir,Quel groupe a sorti cet album ?,Pink Floyd,,,,,,,0,14
+22,round3,buzz,text,Les Joutes du Savoir,De quelle couleur est le fond de l’album Rumours de Fleetwood Mac ?,Jaune,,,,,,,0,14
+23,round3,buzz,text,Les Joutes du Savoir,Quel est le logo Mastercard ?,A,,,,,,,0,14
+24,round3,buzz,text,Les Joutes du Savoir,"Quelle couleur obtient-on avec C:0%, M:20%, J:40%, N:20% ?",Beige / nude chaud,,,,,,,0,14
+25,round3,buzz,text,Les Joutes du Savoir,"Quelle couleur obtient-on avec C:30%, M:0%, J:100%, N:0% ?",Vert vif,,,,,,,0,14
+26,round3,buzz,text,Les Joutes du Savoir,Quel studio a produit Le Roi Lion en 1994 ?,Walt Disney Animation,,,,,,,0,14
+27,round3,buzz,text,Les Joutes du Savoir,Quel studio a produit Kung Fu Panda ?,DreamWorks Animation,,,,,,,0,14
+28,round3,buzz,text,Les Joutes du Savoir,Combien de couleurs différentes contient ce logotype ?,4,,,,,,,0,14
+29,round3,buzz,text,Les Joutes du Savoir,Comment s’appelle le symbole © ?,Copyright / droit d’auteur,,,,,,,0,14
+30,round3,buzz,text,Les Joutes du Savoir,Quel est le vrai logo Adidas ?,A,,,,,,,0,14
+31,round3,buzz,text,Les Joutes du Savoir,"Quelle couleur obtient-on avec C:20%, M:80%, J:0%, N:20% ?",Rose fuchsia / violet rosé,,,,,,,0,14
+32,round3,buzz,text,Les Joutes du Savoir,Quelle marque est associée à cette couleur ?,Milka,,,,,,,0,14
+33,round3,buzz,text,Les Joutes du Savoir,Qui a réalisé ce film ?,Quentin Tarantino,,,,,,,0,14
+34,round3,buzz,text,Les Joutes du Savoir,Qui a réalisé ce film ?,Wes Anderson,,,,,,,0,14
+35,round3,buzz,text,Les Joutes du Savoir,Comment s’appelle ce panneau en français ?,Nuancier,,,,,,,0,14
+36,round3,buzz,text,Les Joutes du Savoir,Quel est le vrai nom de Chihiro dans le monde des esprits ?,Sen,,,,,,,0,14
+37,round3,buzz,text,Les Joutes du Savoir,À quel village appartient le symbole de la feuille dans Naruto ?,Le Village Caché de la Feuille / Konoha,,,,,,,0,14
+38,round3,buzz,text,Les Joutes du Savoir,"Quelle couleur obtient-on avec C:0%, M:100%, J:100%, N:0% ?",Rouge vif,,,,,,,0,14
+39,round3,buzz,text,Les Joutes du Savoir,Quel studio a produit Monstres et Compagnie ?,Pixar,,,,,,,0,14
+40,round3,buzz,text,Les Joutes du Savoir,Quel est le nom du tableau La Grande Vague ?,"La Grande Vague de Kanagawa, Hokusai",,,,,,,0,14
+1,dragon,dragon,text,L’Épreuve du Dragon,Quelle graphiste américaine célèbre pour The Public Theater a un nom qui rappelle une substance molle du corps humain ?,Paula Scher,,,,,,,0,14
+2,dragon,dragon,text,L’Épreuve du Dragon,"Lequel de ces Anderson est connu pour ses plans symétriques et palettes pastel : Pamela, Paul Thomas ou Wes ?",Wes Anderson,,,,,,,0,14
+3,dragon,dragon,text,L’Épreuve du Dragon,Quel outil de design en ligne a un nom proche du verlan de vacances ?,Canva,,,,,,,0,14
+4,dragon,dragon,text,L’Épreuve du Dragon,Votre logiciel plante et rien n’est sauvegardé : quelle injure sort en premier ?,Réponse libre,,,,,,,0,14
+5,dragon,dragon,text,L’Épreuve du Dragon,Quelle est la traduction française de l’outil IA générative intégré dans Adobe Creative Cloud ?,Luciole,,,,,,,0,14
+6,dragon,dragon,text,L’Épreuve du Dragon,Quelle tendance est opposée au branding des marques de luxe en 2020 ?,Blanding,,,,,,,0,14
+7,dragon,dragon,text,L’Épreuve du Dragon,Quel artiste chante l’album Mélodrama cité dans le PDF ?,Disiz,,,,,,,0,14
+8,dragon,dragon,text,L’Épreuve du Dragon,Quel mot désigne à la fois le maintien de l’ordre et une famille de caractères ?,Police,,,,,,,0,14
+9,dragon,dragon,text,L’Épreuve du Dragon,Quel nom de police donnerais-tu à ton chien ?,Réponse libre,,,,,,,0,14
+10,dragon,dragon,text,L’Épreuve du Dragon,Le daltonisme a-t-il été découvert par les frères Dalton ?,Non,,,,,,,0,14
+11,dragon,dragon,text,L’Épreuve du Dragon,Quelles sont les couleurs de l’uniforme des frères Dalton ?,Jaune et noir,,,,,,,0,14
+12,dragon,dragon,text,L’Épreuve du Dragon,Dans quel film des banquiers de Wall Street comparent leurs cartes de visite ?,American Psycho,,,,,,,0,14
+13,dragon,dragon,text,L’Épreuve du Dragon,Quelles sont les quatre couleurs des Tortues Ninja ?,"Orange, rouge, violet et bleu",,,,,,,0,14
+14,dragon,dragon,text,L’Épreuve du Dragon,Quel label de jazz est connu pour son identité visuelle culte ?,Blue Note Records,,,,,,,0,14
+15,dragon,dragon,text,L’Épreuve du Dragon,Quelle affiche de Woody Allen reprend La Nuit étoilée ?,Minuit à Paris / Midnight in Paris,,,,,,,0,14
+16,dragon,dragon,text,L’Épreuve du Dragon,Quel studio japonais a produit Le Voyage de Chihiro ?,Studio Ghibli,,,,,,,0,14
+17,dragon,dragon,text,L’Épreuve du Dragon,Quel animal représente Tony sur les boîtes Frosties ?,Un tigre,,,,,,,0,14
+18,dragon,dragon,text,L’Épreuve du Dragon,À quel mouvement artistique Salvador Dalí est-il associé ?,Surréalisme,,,,,,,0,14
+19,dragon,dragon,text,L’Épreuve du Dragon,Quel tableau montre une personne qui hurle sur un pont ?,Le Cri / The Scream,,,,,,,0,14
+20,dragon,dragon,text,L’Épreuve du Dragon,Qui est l’inventeur de l’imprimerie moderne en Europe ?,Johannes Gutenberg,,,,,,,0,14
+21,dragon,dragon,text,L’Épreuve du Dragon,Qui a peint le plafond de la chapelle Sixtine ?,Michel-Ange,,,,,,,0,14
+22,dragon,dragon,text,L’Épreuve du Dragon,Quel style architectural caractérise Notre-Dame et les grandes cathédrales médiévales ?,Gothique,,,,,,,0,14
+23,dragon,dragon,text,L’Épreuve du Dragon,Comment appelle-t-on la partie ronde et fermée d’une lettre comme o ou b ?,Panse / contrepoinçon,,,,,,,0,14
+24,dragon,dragon,text,L’Épreuve du Dragon,Quel format vectoriel est lisible par les navigateurs ?,SVG,,,,,,,0,14
+25,dragon,dragon,text,L’Épreuve du Dragon,Comment appelle-t-on l’espace vertical entre deux lignes de texte ?,Interligne,,,,,,,0,14
+26,dragon,dragon,text,L’Épreuve du Dragon,Qui a peint les boîtes de soupe Campbell ?,Andy Warhol,,,,,,,0,14
+27,dragon,dragon,text,L’Épreuve du Dragon,Comment appelle-t-on la partie d’une lettre qui descend sous la ligne de base ?,Descendante,,,,,,,0,14
+28,dragon,dragon,text,L’Épreuve du Dragon,Quel style graphique nostalgique années 2000 utilise dégradés métalliques et bulles ?,Y2K,,,,,,,0,14
+29,dragon,dragon,text,L’Épreuve du Dragon,Quel est le contraire d’une police Serif ?,Sans-serif,,,,,,,0,14
+30,dragon,dragon,text,L’Épreuve du Dragon,Quel format d’image supporte la transparence ?,PNG,,,,,,,0,14
+31,dragon,dragon,text,L’Épreuve du Dragon,Comment appelle-t-on la ligne invisible sur laquelle reposent les lettres ?,Ligne de base,,,,,,,0,14
+32,dragon,dragon,text,L’Épreuve du Dragon,"Dans Photoshop, quel outil sélectionne une zone par couleur en peignant ?",Sélection rapide,,,,,,,0,14
+33,dragon,dragon,text,L’Épreuve du Dragon,"Dans Illustrator, dans quel menu trouve-t-on Pathfinder ?",Fenêtre,,,,,,,0,14
+34,dragon,dragon,text,L’Épreuve du Dragon,Comment appelle-t-on l’espace entre deux lettres ajusté manuellement ?,Crénage / kerning,,,,,,,0,14
+35,dragon,dragon,text,L’Épreuve du Dragon,Quel artiste s’est coupé l’oreille ?,Vincent van Gogh,,,,,,,0,14
+36,dragon,dragon,text,L’Épreuve du Dragon,Quelle entreprise a racheté Figma en 2022 avant le blocage du rachat ?,Adobe,,,,,,,0,14
+37,dragon,dragon,text,L’Épreuve du Dragon,Quel fast-food a simplifié son logo avec les arches dorées sans texte ?,McDonald’s,,,,,,,0,14
+38,dragon,dragon,text,L’Épreuve du Dragon,Quel logiciel collaboratif est concurrent d’Adobe pour l’UI design ?,Figma,,,,,,,0,14
+39,dragon,dragon,text,L’Épreuve du Dragon,Quelle marque de luxe a adopté une identité sans-serif en 2018 ?,Burberry / Celine / Balmain,,,,,,,0,14
+40,dragon,dragon,text,L’Épreuve du Dragon,Quel film de 2019 est le premier film non anglophone à gagner l’Oscar du meilleur film ?,Parasite,,,,,,,0,14
+41,dragon,dragon,text,L’Épreuve du Dragon,Quel film Pixar se déroule au Mexique pendant la fête des morts ?,Coco,,,,,,,0,14
+42,dragon,dragon,text,L’Épreuve du Dragon,Quel groupe est associé à Abbey Road et son passage piéton ?,The Beatles,,,,,,,0,14
+43,dragon,dragon,text,L’Épreuve du Dragon,Quelle technique d’impression fait passer l’encre à travers un écran tendu ?,Sérigraphie,,,,,,,0,14
+44,dragon,dragon,text,L’Épreuve du Dragon,Quel artiste de rue britannique garde son identité secrète ?,Banksy,,,,,,,0,14
+45,dragon,dragon,text,L’Épreuve du Dragon,Dans quel musée new-yorkais se trouve La Nuit étoilée de Van Gogh ?,MoMA,,,,,,,0,14
+46,dragon,dragon,text,L’Épreuve du Dragon,Quelle marque de luxe a engagé Virgil Abloh en 2018 ?,Louis Vuitton,,,,,,,0,14
+47,dragon,dragon,text,L’Épreuve du Dragon,Quel logiciel Adobe est souvent cité comme le plus frustrant par les graphistes ?,InDesign,,,,,,,0,14
+48,dragon,dragon,text,L’Épreuve du Dragon,Quelle police est souvent citée comme honte typographique ?,Comic Sans / Papyrus,,,,,,,0,14
+49,dragon,dragon,text,L’Épreuve du Dragon,Quel personnage de dessin animé vit dans un ananas sous la mer ?,Bob l’Éponge,,,,,,,0,14
+50,dragon,dragon,text,L’Épreuve du Dragon,Quel est le numéro de Pikachu dans le Pokédex ?,025,,,,,,,0,14
+51,dragon,dragon,text,L’Épreuve du Dragon,Quel est le sponsor de Flash McQueen dans Cars ?,Rust-eze,,,,,,,0,14
+52,dragon,dragon,text,L’Épreuve du Dragon,Quel est le personnage principal de Foot 2 Rue ?,Esteban,,,,,,,0,14
+53,dragon,dragon,text,L’Épreuve du Dragon,Comment s’appelle le frère de Mario ?,Luigi,,,,,,,0,14
+54,dragon,dragon,text,L’Épreuve du Dragon,Quelle technique consiste à coller des morceaux de papier ou de photos ?,Collage,,,,,,,0,14
+55,dragon,dragon,text,L’Épreuve du Dragon,Quelle forme a la tête de Phinéas ?,Triangulaire,,,,,,,0,14
+56,dragon,dragon,text,L’Épreuve du Dragon,De quelle couleur est la montre de Ben 10 ?,Verte,,,,,,,0,14
+57,dragon,dragon,text,L’Épreuve du Dragon,Qui est le chef des Autobots dans Transformers ?,Optimus Prime,,,,,,,0,14
+58,dragon,dragon,text,L’Épreuve du Dragon,Quel circuit iconique existe dans Mario Kart ?,Rainbow Road / Route Arc-en-ciel,,,,,,,0,14
+59,dragon,dragon,text,L’Épreuve du Dragon,Quel personnage tient la boutique dans Animal Crossing ?,Tom Nook,,,,,,,0,14
+60,dragon,dragon,text,L’Épreuve du Dragon,Quelle émission met en scène des parcours aquatiques absurdes ?,Total Wipeout,,,,,,,0,14

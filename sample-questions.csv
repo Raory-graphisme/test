@@ -1,0 +1,37 @@
+order,round,pool,type,theme,prompt,answer,imageUrl,imageUrlB,optionA,optionB,optionC,optionD,durationSeconds,blurLevel
+1,round1,team-1,truefalse,Design graphique,"Le violet #554696 est la couleur principale du jeu.",Vrai,,,,Vrai,Faux,,,0,14
+2,round1,team-1,truefalse,Typographie,"Une police serif possede generalement des empattements.",Vrai,,,,Vrai,Faux,,,0,14
+3,round1,team-1,truefalse,Image,"Une image floutee est toujours impossible a reconnaitre.",Faux,,,,Vrai,Faux,,,0,14
+4,round1,team-1,truefalse,Couleur,"Le rose #f29fc5 fait partie des couleurs du jeu.",Vrai,,,,Vrai,Faux,,,0,14
+5,round1,team-1,truefalse,Interface,"Un bouton doit toujours etre rond pour etre utilisable.",Faux,,,,Vrai,Faux,,,0,14
+6,round1,team-2,truefalse,CMJN,"En CMJN, le noir est souvent note K.",Vrai,,,,Vrai,Faux,,,0,14
+7,round1,team-2,truefalse,Logo,"Un logo peut etre uniquement typographique.",Vrai,,,,Vrai,Faux,,,0,14
+8,round1,team-2,truefalse,Web,"Figma sert principalement a monter des videos.",Faux,,,,Vrai,Faux,,,0,14
+9,round1,team-2,truefalse,Composition,"Une composition symetrique est toujours plus dynamique qu'une composition asymetrique.",Faux,,,,Vrai,Faux,,,0,14
+10,round1,team-2,truefalse,Culture visuelle,"Le contraste aide a hierarchiser les informations.",Vrai,,,,Vrai,Faux,,,0,14
+11,round1,team-3,truefalse,Design produit,"Une interface admin doit etre plus rapide a utiliser que decorative.",Vrai,,,,Vrai,Faux,,,0,14
+12,round1,team-3,truefalse,Photo,"Une image en basse resolution peut perdre en nettete quand on l'agrandit.",Vrai,,,,Vrai,Faux,,,0,14
+13,round1,team-3,truefalse,Graphisme,"Le beige #fff3d8 est une couleur sombre.",Faux,,,,Vrai,Faux,,,0,14
+14,round1,team-3,truefalse,Pop culture,"Star Wars est une saga de science-fiction.",Vrai,,,,Vrai,Faux,,,0,14
+15,round1,team-3,truefalse,UX,"Trop d'informations sur un ecran live peut ralentir la regie.",Vrai,,,,Vrai,Faux,,,0,14
+16,round1,team-4,truefalse,Art,"Une oeuvre abstraite ne represente pas toujours un sujet reconnaissable.",Vrai,,,,Vrai,Faux,,,0,14
+17,round1,team-4,truefalse,Code couleur,"Un code hexadecimal commence souvent par le symbole #.",Vrai,,,,Vrai,Faux,,,0,14
+18,round1,team-4,truefalse,Motion,"Une animation doit toujours durer plus de 10 secondes.",Faux,,,,Vrai,Faux,,,0,14
+19,round1,team-4,truefalse,Buzzer,"Dans un jeu de buzzer, le premier buzz peut bloquer les autres equipes.",Vrai,,,,Vrai,Faux,,,0,14
+20,round1,team-4,truefalse,Vote,"Un QR code peut servir a ouvrir une page de vote sur telephone.",Vrai,,,,Vrai,Faux,,,0,14
+21,stroop,duel-1,text,L’Épreuve des Illusions,"Mot : ROUGE | Couleur affichee : BLEU. Quelle couleur faut-il dire ?",Bleu,,,,Rouge,Bleu,Vert,Jaune,0,14
+22,stroop,duel-1,text,L’Épreuve des Illusions,"Mot : JAUNE | Couleur affichee : ROSE. Quelle couleur faut-il dire ?",Rose,,,,Jaune,Rose,Violet,Bleu,0,14
+23,stroop,duel-1,text,L’Épreuve des Illusions,"Mot : VERT | Couleur affichee : VIOLET. Quelle couleur faut-il dire ?",Violet,,,,Vert,Violet,Rose,Noir,0,14
+24,round2,theme-1,text,Champ lexical,"Theme 1 : typographie. Les equipes donnent chacune un mot du champ lexical.",Reponse libre,,,,,,,,600,14
+25,round2,theme-2,text,Champ lexical,"Theme 2 : cinema. Les equipes donnent chacune un mot du champ lexical.",Reponse libre,,,,,,,,600,14
+26,round2,theme-3,text,Champ lexical,"Theme 3 : couleurs. Les equipes donnent chacune un mot du champ lexical.",Reponse libre,,,,,,,,600,14
+27,round2,theme-4,text,Champ lexical,"Theme 4 : design graphique. Les equipes donnent chacune un mot du champ lexical.",Reponse libre,,,,,,,,600,14
+28,round2,theme-5,text,Champ lexical,"Theme 5 : objets du quotidien. Les equipes donnent chacune un mot du champ lexical.",Reponse libre,,,,,,,,600,14
+29,round2,theme-6,text,Champ lexical,"Theme 6 : pop culture. Les equipes donnent chacune un mot du champ lexical.",Reponse libre,,,,,,,,600,14
+30,drawing,vote,image,Le Duel des Illustrateurs,"Vote public : quel dessin ressemble le plus au logo demande ?",Vote public,https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&auto=format&fit=crop,,,Equipe A,Equipe B,,,300,14
+31,round3,buzz,text,Les Joutes du Savoir,"Quelle couleur obtient-on en melangeant du rouge et du bleu ?",Violet,,,,Violet,Vert,Orange,Noir,0,14
+32,round3,buzz,blur,Buzz image,"Buzz : quel objet est cache sur cette image floutee ?",Une montre,https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&auto=format&fit=crop,,,,,,0,24
+33,round3,buzz,compare,Buzz comparaison,"Quelle image montre le plus clairement un espace de travail ?",Image A,https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&auto=format&fit=crop,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&auto=format&fit=crop,Image A,Image B,,,0,14
+34,round3,buzz,truefalse,Buzz vrai faux,"En CMJN, le noir est souvent note K.",Vrai,,,,Vrai,Faux,,,0,14
+35,dragon,dragon,text,L’Épreuve du Dragon,"Question stress : cite 5 marques avec un logo typographique en moins de 30 secondes.",Validation admin,,,,,,,,30,14
+36,dragon,dragon,flash,L’Épreuve du Dragon,"Image flash : quel objet as-tu vu ?",Une chaise,https://images.unsplash.com/photo-1503602642458-232111445657?w=1400&auto=format&fit=crop,,,,,,2,14
